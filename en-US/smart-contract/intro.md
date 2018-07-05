@@ -1,4 +1,4 @@
-# Introduction for Smart Contract
+# 智能合约简介
 
 智能合约的概念于1994年由[Nick Szabo](https://www.wikiwand.com/zh-hans/Nick_Szabo)首次提出，并随着以太坊的发布和流行被广泛应用。智能合约原意为“由数字化方式传播、执行、验证的计算机合约代码”，在区块链的大背景下，智能合约（下面都特指区块链智能合约）指的是在区块链上由全网共同见证和执行的程序代码。
 
