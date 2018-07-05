@@ -1,14 +1,14 @@
-- Get Started 
-    - [Introduction](zh-CN/quick-start/intro.md)
-    - [Deploy an AppChain](zh-CN/quick-start/deploy-appchain.md)
-    - [Implement a Smart Contract](zh-CN/quick-start/deploy-smart-contract.md)
-    - [Complete a DApp](zh-CN/quick-start/build-dapp.md)
-- Advanced Information 
-    - [Economic Model](zh-CN/miscellaneous/economic-model.md)
-    - [Governance Model](zh-CN/miscellaneous/governance-model.md)
-    - [Multi-chain Protocol](zh-CN/miscellaneous/multichain-rfc.md)
-    - [Cross-chain Asset Flow](zh-CN/miscellaneous/cross-chain.md)
-- Smart Contract 
-    - [Introduction for Smart Contract](zh-CN/smart-contract/intro.md)
+- 快速入门 
+    - [概览](zh-CN/quick-start/intro.md)
+    - [部署一条 AppChain](zh-CN/quick-start/deploy-appchain.md)
+    - [实现一个智能合约](zh-CN/quick-start/deploy-smart-contract.md)
+    - [完成一个 DApp](zh-CN/quick-start/build-dapp.md)
+- 进阶信息 
+    - [经济模型](zh-CN/miscellaneous/economic-model.md)
+    - [治理模型](zh-CN/miscellaneous/governance-model.md)
+    - [多链协议](zh-CN/miscellaneous/multichain-rfc.md)
+    - [跨链资产流转](zh-CN/miscellaneous/cross-chain.md)
+- 智能合约 
+    - [智能合约简介](zh-CN/smart-contract/intro.md)
     - [智能合约（Solidity）](zh-CN/smart-contract/solidity.md)
-    - [智能合约（Rust）](zh-CN/smart-contract/rust.md)
+    - [Smart Contract（Rust）](zh-CN/smart-contract/rust.md)
