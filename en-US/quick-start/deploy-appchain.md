@@ -1,4 +1,4 @@
-# 部署一条 AppChain
+# Deploy an AppChain
 
 在开始正式开发AppChain DApp之前，我们需要先有一条AppChain。可以从以下方案中进行选择：
 
